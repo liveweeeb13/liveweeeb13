@@ -11,14 +11,14 @@ __**Invite**__ : https://tiny.cc/Areo_I
 
 
 ## My website :
-__**Lien**__ : https://liveweeeb13.github.io/
+__**Link**__ : https://liveweeeb13.github.io/
 
 
 
 ## Elios :
 __**Support**__ : https://discord.gg/2FqPpCpzJh
 
-__**Lien**__ : Not disponible
+__**Link**__ : Not disponible
 
 
 
