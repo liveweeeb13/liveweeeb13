@@ -1,46 +1,5 @@
-# Me 🇬🇧 :
-__**TimeZone**__ : Paris
+## Hey, im liveweeeb or ./u.7-z
+## Je suis un developpeur debutant en nodejs
 
-
-
-## My bot areo
-__**Support**__ : https://tiny.cc/Areo_S
-
-__**Invite**__ : https://tiny.cc/Areo_I
-
-
-
-## My website :
-__**Link**__ : https://liveweeeb13.github.io/
-
-
-
-## Elios :
-__**Support**__ : https://discord.gg/2FqPpCpzJh
-
-__**Link**__ : https://eliosapp.github.io
-
-
-
-
-# Moi 🇫🇷 : 
-__**Horaires**__ : Paris
-
-
-
-## Mon bot areo :
-__**Support**__ : https://tiny.cc/Areo_S
-
-__**L'invite**__ : https://tiny.cc/Areo_I
-
-
-
-## Mon site :
-__**Lien**__ : https://liveweeeb13.github.io/
-
-
-
-## Elios :
-__**Support**__ : https://discord.gg/2FqPpCpzJh
-
-__**Lien**__ : https://eliosapp.github.io
+[![live stats](https://github-readme-stats.vercel.app/api?username=liveweeeb13)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liveweeeb13&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
