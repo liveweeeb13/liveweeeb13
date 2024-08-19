@@ -8,7 +8,7 @@ Add me on discord @liveweeeb
 ## My projects : 
 __**Areo bot**__ : Areo bot is a multifunction French bot in version 1.6
 
-__**Polyblicy Game App**__ : Polyblicy Game App is a way to go to the polyblicy game more easily thanks to an .exe
+__**Polyblicy Game App**__ : Polyblicy Game App is a way to go to the [polyblicy game](https://www.gaming-style.com/POLYBLICY/index.php) more easily thanks to an .exe
 
 
 ## Links : 
