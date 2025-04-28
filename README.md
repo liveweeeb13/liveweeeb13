@@ -11,7 +11,5 @@ __**Areo bot**__ : Areo bot is a multifunction French bot in version 1.6
 __**Polyblicy Game App**__ : Polyblicy Game App is a way to go to the [polyblicy game](https://www.gaming-style.com/POLYBLICY/index.php) more easily thanks to an .exe
 
 
-## Links : 
-__**Areo bot**__ : https://discord.gg/dBA9545Pdr
-
-__**Polyblicy Game App**__ : https://www.mediafire.com/file/esk3v8t8p12g2kc/POLY_APP.zip/file
+## Link : 
+__**My website**__ : https://liveweeeb13.github.io/
