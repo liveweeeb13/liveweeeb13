@@ -1,15 +1,32 @@
 ## Hey, im liveweeeb or ./u.7-z _(french teen)_, 
-### I am a nodejs developer beginner
+### I'm a full-stack developer specializing in HTML, CSS, JavaScript, and Node.js.
 
-[![live stats](https://github-readme-stats.vercel.app/api?username=liveweeeb13)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liveweeeb13&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
-Add me on discord @liveweeeb
-
-## My projects : 
-__**Areo bot**__ : Areo bot is a multifunction French bot in version 1.6
-
-__**Polyblicy Game App**__ : Polyblicy Game App is a way to go to the [polyblicy game](https://www.gaming-style.com/POLYBLICY/index.php) more easily thanks to an .exe
+![](https://github-readme-stats.vercel.app/api?username=liveweeeb13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=liveweeeb13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liveweeeb13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-## Link : 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=liveweeeb13&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📦 My projects : 
+### Hello world
+Une page simple "Hello World" avec du texte et des couleurs personnalisables.
+
+
+### TermiHub
+TermiHub est un terminal interactif personnalisable.
+
+
+### WordWhize
+WordWhize est un module NPM de générateur de mots aléatoires multilingue.
+
+
+### TermiExplorer
+TermiExplorer est un explorateur de fichier en ligne, il permet d'explorer de télécharger des fichiers à partir d'une machine via une autre.
+
+
+## 📎 Link : 
 __**My website**__ : https://liveweeeb13.github.io/
+
+
